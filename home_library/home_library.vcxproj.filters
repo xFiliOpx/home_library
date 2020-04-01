@@ -18,5 +18,13 @@
     <ClCompile Include="home_library.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ksiazka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ksiazka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
